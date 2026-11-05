@@ -5,7 +5,7 @@
 **Platform:** [LetsDefend.io](https://letsdefend.io/)  
 **Learning Path:** Network Fundamentals  
 **Focus Area:** Cybersecurity | Network Security | SOC Analysis  
-**Achievement:** 🏅 Network Cable Badge
+**Achievement:** 🏅 Net Explorer Badge
 
 ---
 
