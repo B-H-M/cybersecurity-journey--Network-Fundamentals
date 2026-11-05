@@ -107,15 +107,8 @@ Studied the basic concepts of Static NAT, Dynamic NAT, and Port Address Translat
 
 ## 🏅 Badge Achievement
 
-### Network Cable Badge — LetsDefend.io
-
-**Achievement Unlocked: Network Cable Badge**
-
-I'm pleased to highlight my **Network Cable Badge** achievement as a milestone in my cybersecurity learning journey.
-
-This achievement represents my continued commitment to developing networking knowledge and building the technical foundation required for security operations.
-
-**Badge Evidence:** Add your official LetsDefend Network Cable Badge screenshot here.
+**Achievement Unlocked: Net Explorer Badge**
+<img width="484" height="422" alt="Net Explorer" src="https://github.com/user-attachments/assets/6ef91f7d-c479-453d-9af3-9ea05683feb7" />
 
 ---
 
